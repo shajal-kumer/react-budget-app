@@ -1,6 +1,6 @@
 # React Budget App
 
-A brief description of what this project does and who it's for
+This project is created by kyle owner of web-dev simplified youtube channel. I have seen his video and practised for improving my react skill as a beginner dev. This project really help me to think in react and use hooks.
 
 ## Demo
 
@@ -8,15 +8,21 @@ Insert gif or link to demo
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+-   useState Hook
+-   context api
+-   local storage API
+-   custom hook
+-   Intl.NumberFormat function
+-   basic use of react-bootstrap
+-   filter mathod
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](preview.png)
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript, GSAP
+**Client:** HTML, CSS, Javascript, React
 
 ## 🚀 About Me
 
@@ -30,6 +36,4 @@ I'm a front-end developer with backend knowledge.
 
 ## Acknowledgements
 
--   [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
--   [Awesome README](https://github.com/matiassingers/awesome-readme)
--   [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+-   [How To Create A Budget App With React](https://www.youtube.com/watch?v=yz8x71BiGXg)
